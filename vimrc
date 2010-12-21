@@ -307,7 +307,7 @@ inoremap <C-L> <C-O>:nohls<CR>
 nnoremap <leader>b :BufExplorer<cr>
 
 "map to CommandT TextMate style finder
-nnoremap <leader>t :CommandT<CR>
+nnoremap <C-t> :CommandT<CR>
 
 "map Q to something useful
 noremap Q gq
@@ -400,4 +400,4 @@ nmap <D-]> >>
 vmap <D-[> <gv
 vmap <D-]> >gv
 
-let ScreenShot = {'Icon':0, 'Credits':0, 'force_background':'#FFFFFF'} 
+let ScreenShot = {'Icon':0, 'Credits':0, 'force_background':'#FFFFFF'}
