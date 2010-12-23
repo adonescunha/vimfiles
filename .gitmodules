@@ -106,6 +106,6 @@
 	path = bundle/securemodelines
 	url = git://github.com/ciaranm/securemodelines.git
   ignore = dirty
-[submodule "html5.vim"]
-	path = html5.vim
+[submodule "bundle/html5"]
+	path = bundle/html5
 	url = git://github.com/othree/html5.vim.git
