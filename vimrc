@@ -266,7 +266,7 @@ if has("gui_running")
     if has("gui_gnome")
         set term=gnome-256color
         colorscheme ir_dark
-        set guifont=Inconsolata\ Medium\ 12
+        set guifont=Monaco\ 10
     endif
 
     if has("gui_mac") || has("gui_macvim")
